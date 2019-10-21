@@ -309,7 +309,7 @@ function update()
       emergencyTemp = true
     end
 
-    sleep(0.1)
+    sleep(0.3)
   end
 end
 
